@@ -1,0 +1,44 @@
+body{
+  background-color: #cccccc;
+}
+
+h1{
+  color: blueviolet;
+}
+
+.text{
+  color: #009933;
+  text-align: justify;
+}
+
+.block-3{
+  color: red;
+  text-align: justify;
+}
+
+.header4{
+  color:#000;
+}
+
+h4{
+  text-align: center;
+}
+
+.underline{
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
+div.block-1{
+  color: #009933;
+  text-align: justify;
+}
+
+div.italic{
+  font-style: italic;
+}
+
+div.bold{
+  font-weight: bold;
+  color: #009933;
+}
